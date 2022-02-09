@@ -8,7 +8,7 @@
 
 # Objective
 Here is the Base EndPoint https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos  
-Here is the ApiKey - sx13z1ze9eBrM0uE5Y8DZfksuaqmIM1juWXwNZ1q --Don't publish to github...
+Here is the ApiKey - Given during interview --Don't publish to github...
 Here are the params
 - earth_date 
 - camera
