@@ -1,12 +1,12 @@
-#Setup Before Interview
+# Setup Before Interview
 1. Download and install Community Edition of IntelliJ - https://www.jetbrains.com/idea/download/#section=mac 
 2. Make sure you have Java 11 SDK installed
 3. Make sure you can reach Maven Repo from within IntelliJ - https://mvnrepository.com/
 
-##Setup During Interview
+## Setup During Interview
 1. Install this.. from Git or download from Git and setup on your PC/Mac
 
-#Objective
+# Objective
 Here is the Base EndPoint https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos  
 Here is the ApiKey - sx13z1ze9eBrM0uE5Y8DZfksuaqmIM1juWXwNZ1q --Don't publish to github...
 Here are the params
@@ -14,7 +14,7 @@ Here are the params
 - camera
 
 
-###What We Want
+### What We Want
 1. Make a call to get photos from a specific camera on a specific day
    1. Create a Proxy for the new call
    2. Create a Controller that we can hit
@@ -24,7 +24,7 @@ Here are the params
 3. Testing
 
 
-###Final Contract
+### Final Contract
 ```
 [
     {
